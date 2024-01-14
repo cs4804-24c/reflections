@@ -1,0 +1,11 @@
+![image](https://github.com/cehrensperger/reflections/assets/19954402/4e86fa17-f393-4f74-a59b-0ce11578ef70) </br></br>
+The basic idea behind this data visualization is to illustrate how much harder completing a climbing route is when attempting to complete it "onsight" 
+(without ever having attempted it before or knowing the right moves to make before hand) and when attempting to complete it after deliberate practice (redpointing).
+The data that is used is many different climbers' top climbing grade achieved in both styles of climbing. The more climbers that can redpoint a climb of at most
+a certain grade, the wider that section of the graph will be. I generally like the color scheme and the ability to quickly determine where the most common maximum
+grade is for each style of climbing is. In relation to the initial question asked, it is then easy to determine that onsighting a route is about 3 climbing grades 
+harder than redpointing a route. I don't like that there is no way to determine anything about the absolute number of climbers whose maximum grade for each style 
+is within a certain range. The way this visulzation is set up, only relative information is displayed. The vertical scales also make it somewhat cumbersome to quickly
+determine which direction is more difficult. Also, while it is a nice visual to see the dot in/around the center of the formations, it would be nice to see 
+on the visualziation itself what these actually represent. I am also thinking that this kind of visualization might not work in situations where the data collected
+does not have a lot of variation as it could get difficult to .
