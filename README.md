@@ -1,6 +1,6 @@
 ## Progress
 
-- [ ] Week1
+- [x] Week1
 - [ ] Week2
 - [ ] Week3
 - [ ] Week4
