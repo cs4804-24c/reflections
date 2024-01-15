@@ -3,7 +3,7 @@
 
 ### by Priyanka Narasimhan
 
-![Image showing different types of data visualizations used on Selfiecity](C:\Users\pnara\reflections\Selfiecity 1.png)
+![Image showing different types of data visualizations used on Selfiecity](C:/Users/pnara/reflections/Selfiecity\ 1.png)
 
 ![Image Plot of selfies, organized horizontally by head tilt, and vertically by whether the person in the photo is looking down or up.](C:\Users\pnara\reflections\Selfiecity 2.png)
 
