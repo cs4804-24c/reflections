@@ -1,4 +1,6 @@
-![image](https://github.com/cehrensperger/reflections/assets/19954402/4e86fa17-f393-4f74-a59b-0ce11578ef70) </br></br>
+![image](https://github.com/cehrensperger/reflections/assets/19954402/4e86fa17-f393-4f74-a59b-0ce11578ef70) </br>
+Source: https://climbstat.blogspot.com/</br>
+This visualization if from the post on Sunday, February 16, 2020, entitled: "How much harder is onsighting vs redpointing?"</br></br>
 The basic idea behind this data visualization is to illustrate how much harder completing a climbing route is when attempting to complete it "onsight" 
 (without ever having attempted it before or knowing the right moves to make before hand) and when attempting to complete it after deliberate practice (redpointing).
 The data that is used is many different climbers' top climbing grade achieved in both styles of climbing. The more climbers that can redpoint a climb of at most
