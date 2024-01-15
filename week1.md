@@ -3,9 +3,9 @@
 
 ### by Priyanka Narasimhan
 
-![Image showing different types of data visualizations used on Selfiecity](Selfiecity 1.png)
+![Image showing different types of data visualizations used on Selfiecity](images/Selfiecity%201.png)
 
-![Image Plot of selfies, organized horizontally by head tilt, and vertically by whether the person in the photo is looking down or up.](C:\Users\pnara\reflections\Selfiecity 2.png)
+![Image Plot of selfies, organized horizontally by head tilt, and vertically by whether the person in the photo is looking down or up.](images/Selfiecity%202.png)
 
 I chose to do a reflection on a data visualization I found on a page called selfiecity. The page basically has to do with studying the “science of selfies”.
 
