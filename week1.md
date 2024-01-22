@@ -1,0 +1,5 @@
+https://www.nytimes.com/interactive/2023/12/05/world/middleeast/gaza-60-days.html
+
+The visualization I chose to focus on this week was sourced from The Upshot from the New York Times. The article focuses on the damages incurred from the ongoing Palestine x Irsrael conflict, however the visualization moves with the article. It shows a map of Gaza, and as the article shifts topics from destructed building to available medical care, the map moves with the user and highlights these areas. This visualization allows for readers to truly grasp the scale of the damage that has occurred, and how the city and living conditions have changed in the past few months. 
+
+This dynamic visualization works very well as a “story-telling” tool, creating a more engaging and actualizing experience for the reader. Upon reflection of this visualization, I find myself curious about potential applications of dynamic mapping techniques in other contexts. I think this approach could be applied in many other environments and maintain the same engaging qualities. 
