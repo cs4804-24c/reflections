@@ -28,10 +28,10 @@ the players average points gained when they take that shot. I much prefer this v
 
 After going to [Luke Kornet's](https://bucketlist.fans/player/nba/1628436) Bucket List page, we found that he hasn't taken a 3-point shot attempt since last season:
 
-## 2022-2023 Shot Chart (Hexbin)
+### 2022-2023 Shot Chart (Hexbin)
 ![image](https://github.com/NicholasMarkou/reflections/assets/20979830/3d29ca84-24d7-42ea-abab-106346f7b3bf)
 
-## 2023-2024 Shot Chart (Hexbin)
+### 2023-2024 Shot Chart (Hexbin)
 ![image](https://github.com/NicholasMarkou/reflections/assets/20979830/bd7bb6fa-2eaa-4dd7-a0c1-d3627a9e50de)
 
 Additionally, you can find video clips of these plays when filtered down. This is Luke Kornet's last successful 3-point shot: 
