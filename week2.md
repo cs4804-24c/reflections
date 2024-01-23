@@ -1,5 +1,6 @@
-X Link: https://x.com/DataVizSociety/status/1126180096115560448?s=20
-Article Link: https://medium.com/nightingale/so-you-want-to-make-a-map-58c7f55f6b20
+Week 2 Relflection X Link: https://x.com/DataVizSociety/status/1126180096115560448?s=20
+
+rticle Link: https://medium.com/nightingale/so-you-want-to-make-a-map-58c7f55f6b20
 
 This graph/data shows the percentage of poverty (proportion of employed population below the international poverty line 
 of US$1.90 per day) throughout the world. I believe this data is interesting as it displays the map in a 3d prespective. 
