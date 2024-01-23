@@ -31,4 +31,8 @@ After going to [Luke Kornet's](https://bucketlist.fans/player/nba/1628436) Bucke
 ## 2023-2024 Shot Chart (Hexbin)
 ![image](https://github.com/NicholasMarkou/reflections/assets/20979830/bd7bb6fa-2eaa-4dd7-a0c1-d3627a9e50de)
 
-Additionally, you can find video clips of these plays when filtered down. This is Luke Kornets last successful 3 point shot: https://videos.nba.com/nba/pbp/media/2023/05/21/0042200303/546/e35425fc-31f6-cc32-9ca6-7e005dd88547_1280x720.mp4
+Additionally, you can find video clips of these plays when filtered down. This is Luke Kornets last successful 3 point shot: 
+
+https://github.com/NicholasMarkou/reflections/assets/20979830/2d1137f7-b628-4bf8-8d64-0bb64394c236
+
+
