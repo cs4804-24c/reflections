@@ -1,7 +1,7 @@
 ## Progress
 
 - [x] [Week1](week1.md)
-- [ ] Week2
+- [x] [Week2](week2.md)
 - [ ] Week3
 - [ ] Week4
 - [ ] Week5
