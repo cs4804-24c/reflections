@@ -1,0 +1,8 @@
+Source: https://www.bloomberg.com/graphics/2023-in-graphics/?srnd=graphics-v2
+Overview: Bloomberg provides a visual representation of top articles written in 2023 categorizes based on topic and visualized with a summary. 
+
+Reflection: 
+	The author provides an interesting/novel way to represent a great amount of information that makes it very easy for the user to spot the key events happening throughout the year. The information is organized into rectangles based on topic (economics, ecology, business, politics, etc) which are then divided into smaller sections each representing the cover of an article and a short description right next to it. 
+	From a visualization perspective, I think the toggles used for each of the rectangles were a bit too much, it was distracting to look at the graphics. Even though there was an option to turn off the toggles, it may have been easier for the user to just have the toggle on the exact thing their mouth is over/they have clicked on. Moreover, the toggles slowed down the browser a lot which was annoying and would make most people click off the website. 
+	While the toggles made the visualization a little bit hard to use, it was a great way to represent a lot of information since it was not overwhelming given the volume of information represented. It was great that all the subsections linked to the full articles which made it convenient to hop from topic to topic. 
+	Overall, I think the idea of categorizing and color coding can be used in my future projects but the toggles/excessive movement/visualizations would probably need to be avoided. 
