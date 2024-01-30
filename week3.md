@@ -1,6 +1,6 @@
 # Reflection-Week3
 
-Link to the source: https://chat.openai.com/c/2f6736cd-497b-465b-94be-3d7b04ebae37
+Link to the source: https://www.visualcapitalist.com/top-10-electronics-exporters-in-the-world/
 
 The source I picked is a Sankey diagram showing the rank of electronics exporters from 2000 to 2021. I like how it clearly
 presents the trending of the country's share of total across the years. The width of the bands in it is proportional to the
