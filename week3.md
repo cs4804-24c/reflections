@@ -1,4 +1,4 @@
-Link to TheUpshot article, "Explore How Income Influences Attendance at 139 Top Colleges", with a visualization that I read: https://www.nytimes.com/2023/11/13/upshot/long-covid-disability.html
+Link to TheUpshot article, "Can’t Think, Can’t Remember: More Americans Say They’re in a Cognitive Fog", with a visualization that I read: https://www.nytimes.com/2023/11/13/upshot/long-covid-disability.html
 
 Visualization Reflection:
 
