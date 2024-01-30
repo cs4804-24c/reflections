@@ -1,0 +1,4 @@
+
+The graph's use of distinct color contrast effectively separates OPEC and non-OPEC countries, facilitating easy visual identification. However, the inconsistent color scheme may hinder conveying specific information.  The polygon shapes assigned to countries make direct comparisons challenging, particularly with smaller polygons obscured by large letters. It is impossible to compare the two countries even if the two shapes are next to each other. Additionally, the use of circles to represent polygons may be less intuitive than other visualization methods, like a pie chart. The separation line is also skewed weirdly, that does not convey the information that they are supposed to do. Consider refining the design to enhance clarity and promote a more user-friendly experience.
+
+https://informationisbeautiful.net/visualizations/ukraine-russian-war-infographics-data-visuals/#OilReserves
