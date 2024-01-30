@@ -2,7 +2,7 @@
 
 - [x] [Week1](week1.md)
 - [x] [Week2](week2.md)
-- [ ] Week3
+- [x] [Week3](week3.md)
 - [ ] Week4
 - [ ] Week5
 - [ ] Week6
