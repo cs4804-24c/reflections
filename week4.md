@@ -1,5 +1,7 @@
 https://www.reddit.com/r/dataisbeautiful/comments/1adux6w/the_numbers_099_sorted_alphabetically_in/
 
+![image](https://github.com/AndrewSalls/reflections/assets/77992504/708c2b5a-929f-4a14-875f-8650c6ac8d0b)
+
 For this week's visualization, I chose a post on r/dataisbeautiful showcasing numbers sorted alphabetically from 0-99 in various languages.
 
 I find this visual interesting for several reasons. First of all, they normalize the length of the alphabets and sort by relative position in the alphabet instead of by letter, allowing the graphs to all use a standard scale.
