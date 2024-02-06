@@ -38,4 +38,18 @@ on a specific subset of the data that is not specified properly. This is a bit c
 media are quick to trust what they see without looking deeply into sources and such. This brings up the issue of how a visualization
 can be misleading, even if this is not done on purpose. 
 
+**A Grammer of Graphics:**
+
+**Data:** Spotify data on the number of streams per artist
+
+**Aesthetics:** Labels on each bar (for artist and number of streams), title, timeline, continuous x-position, categorical y-position, random colors for each category, picture of artist on each bar
+
+**Scale:** X: No specific axis labels (could be 0->max number of streams), Y: Many different artists (no specific label, 1 bar per artist)
+
+**Geometric Objects:** Bars
+
+**Statistics:** Raw data of artist and streams, raw time data
+
+**Facets:** Full data in one chart
+
 ![image](https://github.com/alyshacreelman/reflections/assets/156394139/6253eced-b049-4013-9258-4aa496518d75)
