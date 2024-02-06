@@ -1,0 +1,1 @@
+The first week of the data visualization course introduced me to the basic principles of communicating complex information effectively. I learned how important the choice of color, shape, and layout is in influencing the audience’s understanding.
