@@ -1,0 +1,6 @@
+This is a treemap visualization in which the treemap functions as a visualization composed of nested rectangles. The rectangles represent different categories. Tree maps is a method for displaying hierarchical data. This visualization is a breakdown of how money is spent. The variables in this graph are year, income, and household composition. Spending changes a lot depending on the situation. Spending shows for what people care about and what they need. It is also an indication of the place the economy is at. Spending patterns are estimated over time by The Bureau of Labor Statistics across different demographics. Based on this graph, spending on housing, food, and healthcare is up for a period of time. Spending on clothes, personal insurance and everything else is down. An obvious change can be seen when we switch between the lowest 20 percent in income and the lowest 20 percent in income and the highest 20 percent regardless of the year. Also an observable shift is seen between single-person households and married couples with children. Also as we move through the years, we see less spent on apparel and more on health care.
+
+Reference: Flowing Data Website
+
+Online available at: 
+https://flowingdata.com/2015/04/02/how-we-spend-our-money-a-breakdown/
