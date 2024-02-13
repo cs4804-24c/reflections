@@ -1,1 +1,6 @@
+This Data Visualization takes a look at the history of pandemics and their death tolls during their respective times. The reason I chose this data visualization because rather than a typical graph, they decided to use a colorful, realistic-looking image of what seems to be a diseased cell. It starts from the year 0 to 2023 with Covid-19. the data itself is self-explanatory and easy to follow with clear labeling and sizing to indicate a deadlier disease. The colors used made looking at each data point easy to differentiate and eye-catching. the timeline was also displayed from a different angle that started from a perspective view from afar to came closer towards the viewer to indicate years closer to the present day. It seems like all the major diseases that reached the pandemic level are listed with surprising data.
+
+<img width="360" alt="Screen Shot 2024-02-12 at 11 05 31 PM" src="https://github.com/asosa117/reflections/assets/143228727/06b5ea86-6b41-47e0-ad0d-3227b2a3db95">
 https://www.visualcapitalist.com/wp-content/uploads/2023/03/HoP-Main-Graphic-03012023.jpg
+
+I think it would have made the visualization better if instead of the "disease" images being used, they replaced them with scientific images of the actual disease structure to add another layer of information.
