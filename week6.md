@@ -1,0 +1,7 @@
+This visualization is kind of a bubble chart made to count happiness and the source of happiness. The graph is made using R and Adobe Illustrator. This research was done by asking 10,000 participants to list the things that made them happy. For understanding the overall happiness of people, the graph is given subject (who), verb (action), and object (what). For example, a person might have said “I watched a good movie yesterday.” The subject is splitted between “I” and everything else. About 41% of moments started with someone or something else such as a family member, friend or pet. By this graph, we can get the top subject-verb-object combinations from each group. Then subdivisions of this graph were visualized in a way to only show happiness with others (the ones that do not start with “I”). Another subdivision was when we had the breakdown of pets. As the pet category is more limited, the actions become more specific. For future work and for having a more specific graph, we can consider the distribution of happiness across different demographics, age groups, cultural backgrounds or regions people are living in. Also, a time dimension will make the graph more informative. By adding the time dimension, trends and fluctuations in happiness levels may be studied over different days of the week, seasons or different events. 
+
+
+Reference: Flowing Data Website
+
+Online available at: 
+https://flowingdata.com/2021/07/29/counting-happiness/
