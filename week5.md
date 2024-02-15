@@ -1,0 +1,12 @@
+![image](https://github.com/m-saint/reflections/assets/105166414/304f9a08-af1c-4d64-acb6-81851f75d6d2)
+
+source: https://www.reddit.com/r/dataisbeautiful/comments/1aqpak2/oc_some_love_visualizations_for_folks_who_love/
+
+data: https://d3nkl3psvxxpe9.cloudfront.net/documents/Relationships_and_Valentines_Day_20240126.pdf
+
+This caught my eye because of Valentine's Day, and also because it is in a different style than most of the visualizations I see there. It's a collection of responses to a survey about people's relationships.
+There's all sorts of questions on the survey, but this visualization is focusing on the "have you ever...?" section. I find this kind of data interesting because it's something that pretty much everybody can weigh in on, and it's cool to see what patterns emerge that I might not have expected.
+The biggest strength (and weakness...) is just how much information is featured. There's 26 bubbles on there, which is a lot. But that lets me easily compare the size of multiple bubbles. It's all right there, it's not pretty but it's readable. A couple that stood out to me were the difference between cheating and being cheated on, and marriage vs divorce.
+Aside from the data and what it tells us, this visualization isn't great. As I mentioned it's quite dense, which makes it easy to miss some elements, especially the smaller ones. I've been looking at it for a while now, and still I notice more bubbles that I didn't see right away. Color is also a big issue here. They don't have any assigned meaning, let alone an intuitive one, which made it kind of hard to understand the difference between a pink bubble and a blue bubble, for example.
+Since the use of color was kind of wasted here, I'd rather it be mapped to something useful. For example, size. Comparing the sizes of these bubbles is only really possible when they're very different, or if they're right next to each other. But without seeing the percentages, it's not a super reliable way to show data, compared to something like a bar chart.
+The heart shape and Valentine's theme is definitely eye catching, but it takes away from the functionality a little. Although, I'm not sure if it would've stood out to me otherwise, so perhaps it's working as intended. Overall, it's a less detailed, more in-your-face visualization. The data is very interesting, especially in the results pdf. The giant, bubble-filled heart grabbed my attention, and the data set spoke for itself and made me want to explore further. Which is a pretty good thing for a visualization to acconplish.
