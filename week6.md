@@ -1,0 +1,3 @@
+![alt text](Images/Week6.png)
+
+This week I found an interesting visualization showing the amount of mountain backdrops in Italian cities. It shows how mountainous each city is, with mountains ranging from 0-1500 meters. This is shown using a color scale from violet (least mountainous) to red (most mountainous), an inverse of the order of the color spectrum. I liked this color choice because it is very intuitive, as I am familiar with the typical ROYGBIV order. This visualization is similar to an elevation map. Each indivisual city is marked by a color, so it is different from a a typical elevation map by showing precise locations, but it still gives an idea of the gradual change in elevation throughout the country. 
