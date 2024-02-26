@@ -6,4 +6,4 @@
 - [x] [Week4](week4.md)
 - [x] [Week5](week5.md)
 - [X] [Week6](week6.md)
-- [ ] Week7
+- [X] [Week7](week7.md)
