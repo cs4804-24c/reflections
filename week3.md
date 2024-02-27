@@ -1,0 +1,5 @@
+http://www.dimiter.eu/Visualizations_files/WDVP.html
+
+This visualization has great organization and storytelling, it communicates its message very well with a few different metrics. It keeps an apparent consistency in the way it sorts by big, middle, and small states, including the little blurbs. Additionally, it contextualizes its claims on a map and with additional charts. These charts are also able to stay very clean and organized by removing the y-axis and simply staying consistent with the color scale. Even the choice of a slightly yellow background makes the data more readable. 
+
+I like the way it uses a map, phrase, graph, phrase, and another graph to expand upon a sentence and support the claims it is making. It does a good job of showing that small states tend to be politically stable, less corrupt, and more free. However, there has been less improvement in the past few years. Additionally, I think the choice to remove the axes helps make everything cohesive and connected. The axes would cause a little disconnect between the central chart and the surrounding claims.
