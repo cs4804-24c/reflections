@@ -1,0 +1,8 @@
+Week 7 Reflection:
+Link: https://ourworldindata.org/electric-car-sales
+
+This website has a lot of data on electric vehicles around the world. It primarily focuses on the sales of EVs around the world from 2012-2022. They have data on shares of new cars sold that are electric, shares of new cars that are electric, comparisons between electric and hybrids, EV stocks and much more. In addition, they have a timeline feature where the user can see the progression from 2012-2022. The data is presented in many ways including heat maps, bar-charts, line charts, and simple tables. Moreover, additional features like being able to hover over the maps and graphs to see details at that specific point is nice to have and enhances the user experience. 
+
+Globally, around 1/5 new cars sold was electric in 2022. In Norway, the share was well over 4/5, and in China, it was around 1/3. And from most of the charts and graphs we can see that Norway is at the forefront of EV production.
+
+Overall, the data is presented in a way that is very professional, clean, simple, and easy to read. The colors they used were also really good. Although, with that said, sometimes the colors are really similar between some of the countries and it is difficult to tell apart during a comparison. Additionally, one thing I would change would be to add titles on the X and Y labels, so the reader would be able to better understand the data at first glance. Overall, I would say most of the data and graphs are done really well.
