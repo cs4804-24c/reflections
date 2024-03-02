@@ -1,0 +1,4 @@
+https://mkorostoff.github.io/1-pixel-wealth/
+For the final reflection of the term, I chose to focus on a visualization someone posted a reddit thread. Here, it visualizes money. It shows the respective size for the median U.S. household income, a million, then Jeff Bezos net worth, the cost to house every homeless veteran, etc. 
+
+The challenge of grasping such vast sums of money is daunting for the average person. However, this visualization bridged that gap, making these figures palpable and undeniable. Its horizontal scrolling format was particularly effective, forcing viewers to engage with the entirety of the wealth disparity depicted. Additionally, I think the overlaying of significant social issues over a small portion of Bezos’ networth is eye opening and astounding. This visualization informed readers, and also evoked a sense of urgency to address societal inequalities.
