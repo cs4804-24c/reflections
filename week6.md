@@ -1,3 +1,3 @@
 https://youtu.be/sDdC3-LT7pM?si=XoXgL4Bu8OiBXzdV
 
-BobbyBroccoli makes video essays. While they certainly aren't the only one to make videos with unique visual style, I think they do it best. Using 3d rendering software, (blender most likely) building up a digital environment with visual indicators of all the important story details. 
+BobbyBroccoli makes video essays. While they certainly aren't the only one to make videos with unique visual style, I think they do it best. Using 3d rendering software, (blender most likely) building up a digital environment with visual indicators of all the important story details. There isn't a lot of raw data to take in a few glances, and most of it doesn't make sense without the context of the video. But having data points exist in an environment that you revisit time and time again really helps remembering and navigating the relationships between all the data points. 
